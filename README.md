@@ -14,10 +14,11 @@ Inspired by a phrase that has guided me since the beginning:
 
 <h2 align="left" dir="auto"></h2>
 
-✨ Continuously learning and refactoring myself.<br>
-💬 I write about technology and share my experiences on Medium.<br>
-🧠 Currently exploring ways AI can enhance software craftsmanship.<br>
-🏡 Based in Munich — originally from Brazil 🇧🇷 and Lithuania 🇱🇹.<br>
+✨ Continuously learning and refactoring myself.  
+💬 I write about technology and share my experiences on [Medium](https://medium.com/@yuri.puodzius).  
+🧠 Currently exploring ways AI can enhance software craftsmanship.  
+🏡 Based in Munich — originally from Brazil 🇧🇷 and Lithuania 🇱🇹.  
+💼 Follow my professional journey on [LinkedIn](https://www.linkedin.com/in/yuri-puodzius).
 
 <h2 align="left" dir="auto"></h2>
 
