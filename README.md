@@ -20,7 +20,7 @@ Inspired by a phrase that has guided me since the beginning:
 🏡 Based in Munich — originally from Brazil 🇧🇷 and Lithuania 🇱🇹.  
 💼 Follow my professional journey on [LinkedIn](https://www.linkedin.com/in/yuri-puodzius).
 
-<h2 align="left" dir="auto"></h2>
+<h2 align="left" class="heading-element" dir="auto">I code with</h2>
 
 <div align="center" dir="auto">
   <a target="_blank" rel="noopener noreferrer nofollow" href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg">
