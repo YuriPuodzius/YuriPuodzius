@@ -1,73 +1,34 @@
-## 👋 Hi, I’m Yuri Puodzius  
+## 👋 Hi, I’m Yuri — crafting meaningful software with .NET, purpose, and coffee ☕
+<h2 align="left" dir="auto"></h2>
 
-I’m a **Brazilian–Lithuanian Software Developer**, originally from Brazil and now based in Munich 🇩🇪.  
-With over 12 years of experience designing and building backend systems using C# and .NET,  
-I focus on creating scalable, maintainable, and event-driven architectures that stand the test of time.
+Curious | Reflective | Purpose-driven ☕
 
----
+I’m a Software Engineer with 10+ years of experience battling legacy .NET dragons 🐉 and building impactful solutions that make people’s lives a bit easier (and sometimes even happier).
+My journey has always been about seeing beyond algorithms — connecting real human pain points to purpose… usually while taking another sip of coffee ☕😅
 
-### 🧩 What I Do  
-- Design and implement distributed systems using **C# / .NET (Core & Framework)**  
-- Refactor legacy monoliths into **modular microservice-based architectures**  
-- Build **REST APIs**, internal tools, and integrations with third-party systems  
-- Apply **SOLID principles**, **Clean Code**, and **Domain-Driven Design (DDD)** concepts  
-- Ensure system reliability through **logging, observability, and automated testing**  
-- Collaborate closely with teams to deliver pragmatic, maintainable software  
+I’m passionate about merging the wisdom gained through years of experience with the power of AI-driven tools that are reshaping the way we write code and deliver value.
 
----
+Inspired by a phrase that has guided me since the beginning:
 
-### ⚙️ Tech Stack  
+“No man is better than a machine, and no machine is better than a man with a machine.” 🤖💡
 
-**Programming Languages**  
-C#, TypeScript, Python  
+<h2 align="left" dir="auto"></h2>
 
-**Frameworks**  
-.NET, ASP.NET Core, Angular  
+✨ Continuously learning and refactoring myself.<br>
+💬 I write about technology and share my experiences on Medium.<br>
+🧠 Currently exploring ways AI can enhance software craftsmanship.<br>
+🏡 Based in Munich — originally from Brazil 🇧🇷 and Lithuania 🇱🇹.<br>
 
-**Messaging & Event Streaming**  
-Amazon SQS, Apache Kafka, SNS, EventBridge, Kinesis  
+<h2 align="left" dir="auto"></h2>
 
-**Databases & Storage**  
-SQL Server, Aurora MySQL, Oracle PL/SQL, DynamoDB, Redis, S3  
+### 💻 I code with  
 
-**Cloud & Infrastructure (AWS Focus)**  
-AWS Lambda, CloudFormation, CloudWatch, API Gateway, ECS, EKS, Docker, Kubernetes  
-
-**DevOps & CI/CD**  
-GitLab CI/CD, Azure DevOps, Jenkins  
-
-**Observability & Search**  
-ElasticSearch, Kibana  
-
-**Architecture & Principles**  
-Microservices, Hexagonal Architecture, Serverless, Event-driven Design,  
-Clean Code, SOLID  
-
----
-
-### 🚀 Experience Highlights  
-- Led modernization of legacy systems into **microservices** using .NET Core and AWS.  
-- Implemented event-driven **payment and credit recovery pipelines** using Kafka, SQS, and SNS.  
-- Created structured **JSON logging NuGet libraries** for observability across teams.  
-- Built automation and data pipelines with **AWS Glue, Athena, and Lambda**.  
-- Optimized large-scale **credit recovery batch systems** — 12h → 6h processing time.  
-
----
-
-### 🤝 How I Work  
-I believe that simplicity, clarity, and collaboration create software that lasts.  
-I enjoy solving complex problems in a clean and structured way, and I value teams that share knowledge openly and focus on real impact instead of hype.  
-
-Outside of coding, I share my experiences and lessons learned by writing about **software architecture, .NET, and backend development** on [Medium](https://medium.com/@yuri.puodzius).
-
----
-
-### 📫 Contact  
-📧 yuri.puodzius@hotmail.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/yuri-puodzius/)  
-📝 [Medium](https://medium.com/@yuri.puodzius)  
-🌐 [Munich, Germany]
-
----
-
-⭐️ *Thanks for visiting! Feel free to explore my repositories and reach out — I’m always open to meaningful collaborations and discussions about architecture, scalability, and .NET development.*
+<p align="center" style="display: flex; justify-content: center; flex-wrap: wrap; gap: 25px;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" style="width: 85px; height: auto;" alt=".NET" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" style="width: 85px; height: auto;" alt="C#" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" style="width: 85px; height: auto;" alt="Angular" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" style="width: 85px; height: auto;" alt="TypeScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" style="width: 110px; height: auto;" alt="AWS"/>  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" style="width: 85px; height: auto;" alt="Docker" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original-wordmark.svg" style="width: 110px; height: auto;" alt="Microsoft SQL Server" />
+</p>
